@@ -1,2 +1,2 @@
-# block_fuse
-Use of smart contracts (decentralized and tamper-proof) to achieve the signing of real-world contracts
+## 简介
+本项目包含两个以太坊智能合约，旨在促进雇主与雇员之间在Web3空间的雇佣协议。合约使用ERC20代币（如USDT）进行工资和奖金支付，提供了一种基于区块链的雇佣合约方法。项目包括用于处理单一雇佣协议的EmploymentContract和用于管理多重雇佣关系的EmploymentFactory合约
